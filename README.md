@@ -28,9 +28,6 @@
 
 --------------------------------------------------------
 
- 💬 Ask me about these CRM 👉🏻 **Salesforce, HubSpot** <br>
- or these 👉🏻 CMS **WordPress, Ibexa**
-
  📄 Know about my experiences [https://www.linkedin.com/in/ayoussef33/](https://www.linkedin.com/in/ayoussef33/)
 
 <h3 align="left">Connect with me:</h3>
